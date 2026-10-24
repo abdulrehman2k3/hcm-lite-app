@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HCM Lite — AI-assisted Human Capital Management
 
 A Python + Streamlit + SQLite hackathon starter implementation based on the Saylani HCM Lite challenge brief.
@@ -87,3 +88,6 @@ This is a hackathon starter, not production HR software.
 ## Fresh install behavior
 
 The database file `hcm_lite.db` is created automatically on first run. The company and Admin account are created through the first-run form. No employee demo records are preloaded.
+=======
+# hcm-lite-app
+>>>>>>> 4f7d5db54ea4247f144b7b2fc16f629d63016332
